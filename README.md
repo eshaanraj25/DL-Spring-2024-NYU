@@ -11,3 +11,9 @@ In this project, our goal was to achieve high test accuracy on the CIFAR-10 data
 Through our extensive experimentation and iterative refinement, we were able to develop a ModifiedResNetSE architecture that achieved a test accuracy of 93.55%. This result demonstrates the effectiveness of our approach and the power of the ResNet architecture in image classification tasks, even with the constraint on the model size.
 
 The details of our approach, including the specific modifications made to the ResNet architecture, the hyperparameter tuning process, and the analysis of the results, are provided in the comprehensive Project Report.
+
+## Training and Validation Accuracy and Loss
+
+![Training and Validation Accuracy and Loss](<link-to-the-image>)
+
+The above graph shows the training and validation accuracy and loss over 200 epochs. It illustrates how the model's performance improved over time, showcasing the convergence of training loss and the steady increase in both training and validation accuracy. The model's robustness is also evident from the closeness of the training and validation lines, which indicates good generalization to the validation set.
