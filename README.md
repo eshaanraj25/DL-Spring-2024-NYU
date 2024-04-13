@@ -14,6 +14,6 @@ The details of our approach, including the specific modifications made to the Re
 
 ## Training and Validation Accuracy and Loss
 
-![Training and Validation Accuracy and Loss](<link-to-the-image>)
+![Training and Validation Accuracy and Loss](Image_final.jpg)
 
 The above graph shows the training and validation accuracy and loss over 200 epochs. It illustrates how the model's performance improved over time, showcasing the convergence of training loss and the steady increase in both training and validation accuracy. The model's robustness is also evident from the closeness of the training and validation lines, which indicates good generalization to the validation set.
